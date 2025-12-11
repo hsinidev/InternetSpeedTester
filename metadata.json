@@ -1,0 +1,5 @@
+{
+  "name": "InternetSpeedTester",
+  "description": "A modern web application to test your internet speed, including latency (ping), download, and upload speeds with a sleek and responsive UI.",
+  "requestFramePermissions": []
+}
