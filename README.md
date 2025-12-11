@@ -8,7 +8,7 @@
 
 A professional, high-precision web application designed to test internet connection speeds. Featuring a **cinematic galaxy-themed UI**, this tool measures **Latency (Ping)**, **Download Speed**, and **Upload Speed** with extreme accuracy using native browser APIs.
 
-### 🔗 **LIVE DEMO:** [SitemapGenerator.doodax.com](https://speedtester.doodax.com) 
+### 🔗 **LIVE DEMO:** [doodax.com](https://doodax.com/tools/internetspeedtester/index.htm) 
 *(Click to open in a new tab)*
 
 ---
